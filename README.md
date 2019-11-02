@@ -1,2 +1,0 @@
-# vue-test
-vue project
